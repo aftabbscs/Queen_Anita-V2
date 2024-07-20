@@ -1,7 +1,7 @@
 {
     "name": "Queen_Anita-V2",
     "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
+    "logo": "https://iili.io/dqV1E3N.jpg",
     "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
     "success_url": "/",
     "stack": "container",
@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "Zaid Hussain",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
+        "value": "https://iili.io/dqV1E3N.jpg",
         "required": false
       },
   
@@ -35,17 +35,17 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://iili.io/dqV1E3N.jpg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_Anita-V2"
+        "value": "Zaid_Md"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Asia/Karachi"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -80,7 +80,7 @@
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
         "required": false,
-        "value": "true"
+        "value": "false"
       },
       "MSGS_IN_LOG": {
         "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -99,11 +99,11 @@
       },
       "PREFIX": {
         "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-        "value": "."
+        "value": "+"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "923197656625"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -115,12 +115,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Queen_Anita-V2",
+        "value": "Zaid",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "A N I T A",
+        "value": "Zaid",
         "required": false
       }
     },
